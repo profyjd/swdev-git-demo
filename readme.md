@@ -36,6 +36,7 @@ roads must a man walk down?" from Bob Dylan's song "Blowin' in the
 Wind".
 
 
-## References
+## References / Further Reading
 
 - https://missing.csail.mit.edu/2020/version-control/
+- https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#The_Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_is_42
